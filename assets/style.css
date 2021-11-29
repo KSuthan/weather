@@ -1,4 +1,8 @@
-
+.pic{
+    background-image: url(/assets/w1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
 header {
     margin-top: 50px;
