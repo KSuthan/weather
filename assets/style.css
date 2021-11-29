@@ -1,0 +1,52 @@
+body{
+    background-image: url(/assets/w1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header {
+    margin-top: 50px;
+    text-align: center;
+    /* background-color: white; */
+    background-color:rgba(211, 207, 238, 0.4);
+   
+}
+
+h1{
+    font-size: 50px;
+    padding: 20px;
+    color: rgb(5, 5, 177);
+    font-weight: bolder;
+}
+
+.search{
+    color: rgb(21, 104, 5);
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+#today-weather{
+    background-color: rgba(195, 207, 29, 0.6);
+  
+}
+
+#city-name{
+    color: rgb(14, 1, 11);
+    font-size: 40px;
+    font-style: italic;
+}
+
+#temperature,
+#humidity,
+#wind-speed,
+#UV-index {
+    color: rgb(199, 48, 21);
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+h3{
+    font-size: 40px;
+    font-weight: bolder;
+    font-style: italic;
+}
