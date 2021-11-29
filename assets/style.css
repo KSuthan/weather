@@ -1,14 +1,10 @@
-body{
-    background-image: url(/assets/w1.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-}
+
 
 header {
     margin-top: 50px;
     text-align: center;
-    /* background-color: white; */
-    background-color:rgba(211, 207, 238, 0.4);
+    background-color: rgb(218, 26, 26);
+    /* background-color:rgba(211, 207, 238); */
    
 }
 
